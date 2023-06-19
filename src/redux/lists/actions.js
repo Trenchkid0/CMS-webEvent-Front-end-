@@ -111,7 +111,7 @@ export const fetchListTalents = () => {
   };
 };
 
-// event
+
 
 export const startFetchingListsEvents = () => {
   return {

@@ -142,7 +142,6 @@ export default function EventsForm({
             placeholder={'Masukan Avatar'}
             label={'Cover'}
             name='avatar'
-            // value={form.avatar}
             type='file'
             onChange={handleChange}
           />
